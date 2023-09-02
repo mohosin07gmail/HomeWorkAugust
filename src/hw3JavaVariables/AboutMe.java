@@ -23,8 +23,5 @@ public class AboutMe {
 	public void aboutMe() {
 		System.out.println("I am aboutMe method");
 	}
-	
-		
-	
-	
+
 }
